@@ -2,7 +2,7 @@
 
 Public GitHub Pages companion for the **Mathera History Network**: seven Epochs of math, twelve Worlds, and a 144-concept trophy wall.
 
-**Live (once Pages is enabled):** https://julianlee314-hue.github.io/math-history-101/
+**Live (once Pages is enabled):** https://the-court-press.github.io/math-history-101/
 
 ## Framing
 
