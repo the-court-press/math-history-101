@@ -58,7 +58,7 @@ python3 -m http.server 8080
 
 ## GitHub Pages
 
-1. Push to `julianlee314-hue/math-history-101`.
+1. Push to `the-court-press/math-history-101`.
 2. Settings → Pages → Deploy from branch `main` (root).
 3. `.nojekyll` present.
 
